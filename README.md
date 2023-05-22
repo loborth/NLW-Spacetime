@@ -1,5 +1,5 @@
 <h1 align="center">
-  Cápsula do tempo 
+  ⌛ Cápsula do tempo ⌛
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 ## 🖥️ Projeto
-O projeto é uma cápsula do tempo, que exibe memórias em uma linha do tempo.
+O projeto é uma cápsula do tempo, que exibe memórias em uma timeline.
 
 ## 🚀 Tecnologias 
 Esse projeto foi desenvolvido durante a NLW da Rocketseat com as seguintes tecnologias:
